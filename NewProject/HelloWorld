@@ -1,0 +1,2 @@
+a = input("Digite o Seu Nome: ")
+print ("Hello %s World!!!" %a)
